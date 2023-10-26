@@ -4,11 +4,11 @@
 ## The layout is straightforward, designed with the intention of practicing the following concepts:
 
 - `API manipulation`
--` Internal API requests`
+- ` Internal API requests`
 - `JSON data handling`
 
 ## File Organization
 
--`script.js`: Contains the JavaScript code responsible for interaction and data manipulation.
--`style.css`: Style file defining the appearance and layout of the page.
--`index.html`: Main file containing the webpage's structure.
+- `script.js`: Contains the JavaScript code responsible for interaction and data manipulation.
+- `style.css`: Style file defining the appearance and layout of the page.
+- `index.html`: Main file containing the webpage's structure.
